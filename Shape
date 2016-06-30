@@ -1,0 +1,10 @@
+package Area_Of_Shapes;
+
+public interface Shape {
+
+    public String LABLE="Shape";
+     
+    void draw();
+     
+    double getArea();
+}
